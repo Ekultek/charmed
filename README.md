@@ -43,7 +43,7 @@ Code execution report:
 
 ![arb_code_exec_restart](https://user-images.githubusercontent.com/14183473/70473550-e5244f00-1a96-11ea-86be-96ee30c2bca2.png)
 
-File traversale report:
+File traversal report:
 
 ![file_Traversal_stuff](https://user-images.githubusercontent.com/14183473/70473551-e5bce580-1a96-11ea-8541-99e83f472c49.png)
 
